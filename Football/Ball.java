@@ -1,3 +1,4 @@
+package Football;
 import java.util.Random;
 import java.awt.*;
 
